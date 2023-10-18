@@ -1,0 +1,8 @@
+site_name: Vault Template
+site_description: Hashicorp's Vault Template 
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core

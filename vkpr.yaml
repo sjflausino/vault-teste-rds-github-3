@@ -1,0 +1,8 @@
+global:
+  domain: apps.vkpr.net
+  ingressClassName: kong
+  secure: true
+  provider: aws
+vault: 
+  enabled: true
+  autoUnseal: true
